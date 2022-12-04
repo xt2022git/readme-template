@@ -21,6 +21,5 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 ## 🍜 Licença
 
-Esse projeto está sob licença. Veja o arquivo (#00FF00[LICENÇA](LICENSE.md)) para mais detalhes.<br>
-## ☕ Seja um dos contribuidores
-[LICENÇA](LICENSE.md)
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+
